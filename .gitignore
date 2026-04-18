@@ -1,0 +1,15 @@
+# important personal data
+qso_data.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# system file
+.DS_Store
+Thumbs.db
+
+# IDE config
+.vscode/
+.idea/
