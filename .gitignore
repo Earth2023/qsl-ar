@@ -2,6 +2,7 @@
 qso_data.csv
 sample.html
 wkd.py
+qso_data.csv.bak
 
 # Python
 __pycache__/
