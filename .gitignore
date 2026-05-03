@@ -1,8 +1,14 @@
 # important personal data
+.cache/
+plan_test_file_by_deepseek/
+DS_API_KEY
+plan_data.csv
+planmaker.py
 qso_data.csv
+qsomaker.py
 sample.html
-wkd.py
-qso_data.csv.bak
+log.txt
+plan/csv/
 
 # Python
 __pycache__/
