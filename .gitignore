@@ -9,6 +9,7 @@ qsomaker.py
 sample.html
 log.txt
 plan/csv/
+.claude/
 
 # Python
 __pycache__/
